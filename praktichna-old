@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мій перший сайт</title>
+</head>
+<body>
+
+    <h1>Моя перша веб-сторінка</h1>
+    <p>Виконав: Іскорко Юрій</p>
+<p>Група 15</p>
+   <p>______________________________________________</p>
+   <p>Це приклад простої веб-сторінки, яка створена за допомогою HTML</p>
+    <a href="https://www.google.com" target="_blank">
+        Перейти на Google
+    </a>
+
+    <br><br>
+
+    <img src="https://via.placeholder.com/250" alt="Зображення">
+
+</body>
+</html>
